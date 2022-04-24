@@ -1,0 +1,3 @@
+[submodule "onebyone-frontend"]
+	path = onebyone-frontend
+	url = https://github.com/leggant/onebyone-frontend.git
