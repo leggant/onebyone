@@ -4,3 +4,6 @@
 [submodule "onebyone-backend"]
 	path = onebyone-backend
 	url = https://github.com/leggant/onebyone-backend.git
+[submodule "onebyone-documentation"]
+	path = onebyone-documentation
+	url = https://github.com/leggant/onebyone-documentation.git
